@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: v26.09.21
+_src_path: https://github.com/UBC-DERC/derc_copier
+archived_data: false
+author_affiliation: University of British Columbia
+author_email: simon.goring@gmail.com
+author_formal: Goring
+author_given: Simon
+author_orcid: https://orcid.org/0000-0002-2700-4605
+git_use: true
+include_quarto: false
+primary_language: python
+project_description: An OpenAPI endpoint for researchers using the UBC Unifi Camera
+    System.
+project_title: derc-unifi-api
+template_profile: recommended

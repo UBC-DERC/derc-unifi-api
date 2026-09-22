@@ -1,0 +1,18 @@
+# Note you can add multiple authors to this citation file 
+# by following the convention already established here.
+# The full citation schema guide is here:
+# https://github.com/citation-file-format/citation-file-format/blob/1.2.0/schema-guide.md
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Goring"
+    given-names: "Simon"
+    orcid: https://orcid.org/0000-0002-2700-4605 
+    affiliation: University of British Columbia 
+abstract: "An OpenAPI endpoint for researchers using the UBC Unifi Camera System."
+title: derc-unifi-api
+version: 26.09
+date-released: 2026-09-22
+url: https://github.com//derc_unifi_api
+
