@@ -6,8 +6,8 @@ site_author: Simon Goring
 copyright: >-
   Copyright &copy; UBC Dairy Education and Research Centre (DERC)
 
-repo_url: https://github.com/UBC-DERC/derc_copier
-repo_name: UBC-DERC/derc_copier
+repo_url: https://github.com/UBC-DERC/derc-unifi-api
+repo_name: UBC-DERC/derc-unifi-api
 edit_uri: edit/main/docs/
 
 theme:
@@ -86,8 +86,8 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/UBC-DERC/derc_copier
-      name: DERC copier template on GitHub
+      link: https://github.com/UBC-DERC/derc-unifi-api
+      name: DERC Vision API
 
 nav:
   - Home: index.md
