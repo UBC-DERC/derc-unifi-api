@@ -2,34 +2,21 @@
 [![lifecycle](https://img.shields.io/badge/lifecycle-lifecycle_planning-crimson.svg)]()
 
 
-
-
-
-
-
-
-
 <!-- badges: end -->
 
-# derc-unifi-api
+# DERC Vision API
 
 An OpenAPI endpoint for researchers using the UBC Unifi Camera System.
 
-<!--
-One Paragraph of project description goes here.
+This project is designed to act as a pathway for researchers to access camera data directly, without control over the existing camera system (or the need for direct ownership or management of the various device consoles). It is intended to be used both to prototype and run computer vision projects operating at DERC, and also to help manage data coming from the camera systems in a well-designed system. The DERC Vision API defines critical metadata for camera and computer vision systems (through a `Camera` class), and ties them directly to video clips and stills.
 
-This should provide background for your software project,
-a brief explanation of what the project is about,
-and optionally, pointers to resources that can help orient readers.
--->
+
 
 ## Contribution
 
 This project was developed by:
 
-
 * [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2700--4605-green.svg)](https://orcid.org/0000-0002-2700-4605): Simon Goring
-
 
 Contributions to this repository are expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -59,18 +46,9 @@ uv sync
 
 Now you are ready to work on the project.
 
-
-
-
 ## Funding Statement
 
-<!--
-A short statement about your funding sources.
--->
-
-
-
-
+This project was funded by FarmCredit Canada through a grant to Drs von Keyserlingk and Weary at the UBC Dairy Education and Research Farm.
 
 ---
 
