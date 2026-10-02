@@ -1,11 +1,10 @@
 site_name: derc-unifi-api
-site_url: https://ubc-derc.github.io/derc_copier
+site_url: https://ubc-derc.github.io/derc-unifi-api
 site_description: >-
  An OpenAPI endpoint for researchers using the UBC Unifi Camera System.
 site_author: Simon Goring
 copyright: >-
   Copyright &copy; UBC Dairy Education and Research Centre (DERC)
-
 repo_url: https://github.com/UBC-DERC/derc-unifi-api
 repo_name: UBC-DERC/derc-unifi-api
 edit_uri: edit/main/docs/
